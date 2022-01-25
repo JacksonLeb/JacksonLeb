@@ -29,6 +29,7 @@ I am current involved in founding and serving as President of The University of 
 @@@@@@@  ........................ @@@@ ..  @@@@ ........................ @@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@. @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
+
 I am also honing my Machine Learning and Deep Learning skills by learning the Python ML Library, PyTorch. 
                                                                                 
                                                                                 
@@ -59,6 +60,7 @@ I am also honing my Machine Learning and Deep Learning skills by learning the Py
                             .((((((((((((((((((((((/                            
                                    *((((((((/,                                  
                                                                                 
+
 
 In the future I am going to learn and build with MongoDB, Express.js, React.js, Node.js, and Solidity. 
                                         .                                       
