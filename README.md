@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JacksonLeb
 
-I am a Sophomore at the University of Michigan working towards my Bachelor's degree in Science majoring
+I am a Junior at the University of Michigan working towards my Bachelor's degree in Science majoring
 in Computer Science as well as Biopsychology, Cognition, and Neuroscience. I have prior experience in Software Development,
 Analytics, and STEM Education. I demonstrate a history of Software Engineering, Data Analysis, and Systems Engineering 
 throughout my involvement in Technology Consulting and Database Management work. I am seeking opportunities to work in 
